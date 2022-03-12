@@ -10,7 +10,7 @@ class Quiz {
         System.out.flush();
         System.out.printf("\n \t\t\t\t\t\tHOW TO PLAY THE Quiz Game\t\t\t\t");
         System.out.printf(
-                "\n------------________________________________________________________________________________________________------------\n");
+                "\n------------_________________________________________________________________________________________________------------\n");
         System.out.printf("\n\n\t\t\t\t 1. This quiz game contains total 15 questions in total.");
         System.out.printf("\n\t\t\t\t 2. Each question carries 10 points.");
         System.out.printf("\n\t\t\t\t 3. You need to score 150 points continously to win the game.");
